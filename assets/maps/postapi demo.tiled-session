@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "postapo demo.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "desert track.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "first.tmx": {
+            "scale": 0.0559,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 16887.298747763867,
+                "y": 16493.738819320213
+            }
+        },
+        "firstmap.tmx": {
+            "scale": 0.3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1103.3333333333333,
+                "y": 866.666666666667
+            }
+        },
+        "postapo demo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "second.tmx": {
+            "scale": 0.04,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7600,
+                "y": 4850
+            }
+        }
+    },
+    "last.imagePath": "/Users/amiani_johns/code/palma/assets/images",
+    "map.fixedSize": true,
+    "map.height": 350,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 500,
+    "openFiles": [
+        "first.tmx",
+        "postapo demo.tsx",
+        "second.tmx"
+    ],
+    "project": "postapi demo.tiled-project",
+    "recentFiles": [
+        "first.tmx",
+        "second.tmx",
+        "postapo demo.tsx",
+        "desert track.tsx",
+        "firstmap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
